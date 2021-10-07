@@ -3,6 +3,6 @@ module github.com/bramvdbogaerde/go-scp
 go 1.13
 
 require (
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
-	golang.org/x/sys v0.0.0-20210525143221-35b2ab0089ea // indirect
+	golang.org/x/crypto v0.0.0-20210220033148-5ea612d1eb83
+	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22
 )
