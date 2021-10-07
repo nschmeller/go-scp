@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	scp "github.com/bramvdbogaerde/go-scp"
-	"github.com/bramvdbogaerde/go-scp/auth"
+	scp "github.com/nschmeller/go-scp"
+	"github.com/nschmeller/go-scp/auth"
 	"golang.org/x/crypto/ssh"
 )
 
